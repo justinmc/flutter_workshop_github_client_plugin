@@ -1,15 +1,8 @@
 # window_to_front
 
-A new Flutter plugin project.
+The window_to_front plugin from the Flutter Github Client workshop.
 
-## Getting Started
+See also:
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+  * [My code](https://github.com/justinmc/flutter_workshop_github_client) for the final app from the workshop.
+  * The [Flutter Github Client workshop](https://codelabs.developers.google.com/codelabs/flutter-github-client) itself.
